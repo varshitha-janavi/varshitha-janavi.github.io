@@ -2,24 +2,22 @@
 layout: about
 title: about
 permalink: /
-subtitle: <a href='#'>Affiliations</a>. Address. Contacts. Motto. Etc.
+# subtitle: <a href='#'>Affiliations</a>. Address. Contacts. Motto. Etc.
 
 profile:
   align: right
   image: prof_pic.jpg
   image_circular: false # crops the image to make it circular
   more_info: >
-    <p>555 your office number</p>
-    <p>123 your address street</p>
-    <p>Your City, State 12345</p>
+    <p>Tempe, Arizona</p>
 
 news: true # includes a list of news items
 selected_papers: true # includes a list of papers marked as "selected={true}"
 social: true # includes social icons at the bottom of the page
 ---
 
-Write your biography here. Tell the world about yourself. Link to your favorite [subreddit](http://reddit.com). You can put a picture in, too. The code is already in, just name your picture `prof_pic.jpg` and put it in the `img/` folder.
+I'm a Master's student at Arizona State University(ASU). I graduated with a Bachelor's in Mechanical Engineering from the Indian Institute of Technology, Kanpur(IITK) in 2024. 
 
-Put your address / P.O. box / other info right below your picture. You can also disable any of these elements by editing `profile` property of the YAML header of your `_pages/about.md`. Edit `_bibliography/papers.bib` and Jekyll will render your [publications page](/al-folio/publications/) automatically.
+I'm interested in Control Theory, Optimization, PDEs, and Machine Learning. My thesis advisor is Prof. Yulia Peet, and I work with her on the Lyapunov-based stability analysis of PDE systems, with an emphasis on developing fast, mathematically sound frameworks for problems in complex domains like cylindrical geometries.
 
-Link to your social media connections, too. This theme is set up to use [Font Awesome icons](https://fontawesome.com/) and [Academicons](https://jpswalsh.github.io/academicons/), like the ones below. Add your Facebook, Twitter, LinkedIn, Google Scholar, or just disable all of them.
+Previously, I interned at **Coulomb AI** (a Y Combinator S21 startup), where I contributed to simulation pipelines and battery aging models for electric vehicles, with an emphasis on data-driven system behavior and predictive modeling. I also worked with Prof. Leixin Ma at ASU during the Fall 2024 semester on building a multitask, multifidelity Gaussian process model (MMGP) for optimizing the aerodynamic performance of a flapping NACA0012 airfoil. This involved developing 2D and 3D simulations in Julia using the WaterLily.jl CFD package to reduce the reliance on expensive high-fidelity data. I also briefly explored graph neural networks for flow simulation and surrogate modeling.
