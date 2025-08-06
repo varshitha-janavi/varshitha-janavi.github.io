@@ -1,12 +1,20 @@
 ---
 layout: page
 permalink: /teaching/
-title: teaching
-description: Materials for courses you taught. Replace this text with your description.
+title: Teaching
+description: Summary of teaching assistant and grading roles.
 nav: true
 nav_order: 6
 ---
 
-For now, this page is assumed to be a static description of your courses. You can convert it to a collection similar to `_projects/` so that you can have a dedicated page for each course.
+### Fall 2024 (Aug – Dec)
 
-Organize your courses by years, topics, or universities, however you like!
+I served as a grader for **MAE 202: Dynamics** at Arizona State University. My responsibilities included grading weekly quizzes and homework assignments, as well as holding office hours to assist students with their doubts.
+
+### Spring 2025 (Jan – May)
+
+I worked as a Graduate Teaching Assistant for **MAE 213: Mechanics of Materials**. I coordinated a team of seven undergraduate teaching assistants and graders, assigning responsibilities and overseeing day-to-day course operations. In addition to managing logistics, I conducted office hours to support students with their coursework.
+
+### Fall 2025 (Aug – Dec)
+
+I am currently a Graduate Teaching Assistant for **MAE 213: Mechanics of Materials**, continuing my involvement in course instruction and student support for a second semester.
