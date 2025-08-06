@@ -1,8 +1,8 @@
 ---
 layout: page
 permalink: /books-and-games/
-title: Books & Games
-description: a chronological log of books read and games played.
+title: books & games
+description: a chronological log of books read and video games played.
 nav: true
 nav_order: 7
 ---
